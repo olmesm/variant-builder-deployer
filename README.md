@@ -1,4 +1,4 @@
-# Variant Deploy
+# Variant Builder Deployer
 
 This takes the output of the awesome variant theme builder and deconstructs it into a set of HTML pages.
 
