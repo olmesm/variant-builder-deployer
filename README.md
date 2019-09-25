@@ -1,6 +1,6 @@
 # Variant Builder Deployer
 
-This takes the output of the awesome variant theme builder and deconstructs it into a set of HTML pages.
+Builds awesome websites from variant files.
 
 ## To Run
 

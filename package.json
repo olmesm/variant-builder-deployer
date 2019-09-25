@@ -1,14 +1,14 @@
 {
   "name": "variant-builder-deployer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Builds awesome websites from variant files",
   "main": "index.js",
   "scripts": {
     "start": "mkdir -p dist/pages && node src"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Oliver Smit <github.com/olmesm>",
+  "license": "MIT",
   "dependencies": {
     "glob": "^7.1.4",
     "jsdom": "^15.1.1",
